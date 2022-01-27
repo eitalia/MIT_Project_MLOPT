@@ -13,6 +13,8 @@ Edoardo Italia and Simon Weill
 
 ### Files
 Machine_Learning.ipynb: Consists of the models built to predict the financial performance.
+
 Optimization_Framework_Results.ipynb: Consists of the model built in PuLP and the relevant results. 
+
 Final_Report.pdf: PDF of final report submitted to teaching assistants for assessment and grading. 
 
