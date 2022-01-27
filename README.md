@@ -1,8 +1,11 @@
 # MIT Machine Learning Under a Modern Optimization Lens Coursework
-## Submitted as part of 15.095: Machine Learning Under a Modern Optimization Lens Coursework
+
+Submitted as part of 15.095: Machine Learning Under a Modern Optimization Lens Coursework
 
 Project: Optimizing Private Equity Investments using Machine Learning
+
 Scope: Build models to predict financial performance of selected companies. Leverage predictions to optimize capital allocation strategy based on portfolio structure and risk preference.
+
 Project Members: Edoardo Italia and Simon Weill
 
 Files:
